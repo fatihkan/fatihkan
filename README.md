@@ -189,69 +189,6 @@ Native macOS live wallpaper engine — Metal-accelerated, 6 wallpaper sources, d
 
 <br/>
 
-### 〔 also in the lab 〕
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="top" width="50%">
-
-#### <a href="https://github.com/fatihkan/shannon">🔬 shannon</a>
-
-Fully autonomous AI hacker to find real exploits in your web apps. 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
-
-<p>
-  <img src="https://img.shields.io/badge/AI-0a0a0a?style=flat-square&logo=anthropic&logoColor=FBA922&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/security-0a0a0a?style=flat-square&logo=hackthebox&logoColor=FBA922&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/research-0a0a0a?style=flat-square&labelColor=0a0a0a&color=FBA922" />
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-#### <a href="https://github.com/fatihkan/DeepInfant">🔬 DeepInfant</a>
-
-Neural network system that predicts whether and why your baby is crying. Audio classification trained for infant cry detection.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=FBA922&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/PyTorch-0a0a0a?style=flat-square&logo=pytorch&logoColor=FBA922&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/ML-0a0a0a?style=flat-square&labelColor=0a0a0a&color=FBA922" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-#### <a href="https://github.com/fatihkan/xyops">⚙️ xyops</a>
-
-A complete workflow automation and server monitoring system. Pipelines, alerting, telemetry — all wired together.
-
-<p>
-  <img src="https://img.shields.io/badge/automation-0a0a0a?style=flat-square&logo=githubactions&logoColor=FBA922&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/monitoring-0a0a0a?style=flat-square&logo=grafana&logoColor=FBA922&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/devops-0a0a0a?style=flat-square&labelColor=0a0a0a&color=FBA922" />
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-#### <a href="https://github.com/fatihkan/wvw.dev">🌐 wvw.dev</a>
-
-Distributed app store for vibe-coded projects. Federated, AI-curated, fully static on GitHub Pages — no server, no gatekeeper.
-
-<p>
-  <img src="https://img.shields.io/badge/federated-0a0a0a?style=flat-square&logo=mastodon&logoColor=FBA922&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/static-0a0a0a?style=flat-square&logo=githubpages&logoColor=FBA922&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/web-0a0a0a?style=flat-square&labelColor=0a0a0a&color=FBA922" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ### 〔 telemetry 〕
 
 <table border="0" cellspacing="0" cellpadding="0">
