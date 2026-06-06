@@ -31,12 +31,12 @@
 
 #### <a href="https://github.com/fatihkan/wallnetic">📦 wallnetic</a>
 
-Live Video Wallpaper Engine for macOS. Dynamic Island controls, Netflix-style UI, 6 wallpaper sources, per-Space wallpapers, lock-screen video, Metal GPU acceleration, multi-monitor & Notification Center widget.
+Cinematic live wallpapers for macOS — turn any video you own into a living 4K desktop. Dynamic Island controls, per-Space & multi-monitor wallpapers, photo slideshows, effects, Liquid Glass UI. SwiftUI + Metal, sandboxed, live on the Mac App Store.
 
 <p>
   <img src="https://img.shields.io/badge/Swift-0a0a0a?style=flat-square&logo=swift&logoColor=FBA922&labelColor=0a0a0a" />
   <img src="https://img.shields.io/badge/macOS-0a0a0a?style=flat-square&logo=apple&logoColor=FBA922&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/%E2%98%85%2030-0a0a0a?style=flat-square&labelColor=0a0a0a&color=FBA922" />
+  <img src="https://img.shields.io/badge/%E2%98%85%2033-0a0a0a?style=flat-square&labelColor=0a0a0a&color=FBA922" />
   <img src="https://img.shields.io/badge/forks%202-0a0a0a?style=flat-square&labelColor=0a0a0a&color=FBA922" />
 </p>
 
@@ -45,7 +45,7 @@ Live Video Wallpaper Engine for macOS. Dynamic Island controls, Netflix-style UI
 
 #### <a href="https://github.com/fatihkan/badi">📦 badi</a>
 
-Workflow management CLI for Claude Code, Cursor & Gemini CLI. 21 AI subagents, 77 commands, 12 hooks, 23 skill categories. Built for Claude Opus 4.7 and Sonnet 4.6.
+Workflow management CLI for Claude Code, Cursor & Gemini CLI. 30 AI agents — incl. a virtual eng team, ads strategist, market/SEO/data analysts — 84 commands, 62 skill categories. Built for Claude Opus & Sonnet.
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=FBA922&labelColor=0a0a0a" />
@@ -66,7 +66,7 @@ Workflow management CLI for Claude Code, Cursor & Gemini CLI. 21 AI subagents, 7
 role:         founder · principal engineer @ t-square biliṣim
 studio:       senior software · LMS · AI studio — istanbul, since 2017
 track_record: 9+ years · 13 brand engagements · 10 production releases
-products:     blink ai · nexia academy · wallnetic
+products:     blink ai · nexia academy · wallnetic · badi
 focus:        ios · swift · react native · ai-native workflows · LMS
 based_in:     kadıköy, istanbul · 41.0082°N, 28.9784°E
 mode:         open to interesting problems
@@ -129,12 +129,12 @@ Native macOS live wallpaper engine — Metal-accelerated, 6 wallpaper sources, d
 ### 〔 now 〕
 
 ```diff
++ shipped   wallnetic — live on the mac app store · liquid glass UI
++ shipping  badi v1.33 — virtual eng team, ads review, command profiles
 + shipping  blink ai — new coaching loops + analytics dashboards
-+ shipping  badi v1.17 — opt-in skills, schedule engine
-+ tuning    wallnetic — per-space wallpapers + lock-screen video
 ~ scaling   nexia academy — multi-tenant operations
-~ exploring claude code agent SDK · MCP servers · code connect
-~ thinking  about ai-native workflows that feel like instruments
+~ curating  awesome-ai-devtools — AI-powered developer tools list
+~ exploring claude code agent SDK · MCP servers · multi-agent workflows
 - avoiding  yak shaves
 ```
 
@@ -196,9 +196,9 @@ Native macOS live wallpaper engine — Metal-accelerated, 6 wallpaper sources, d
 <td valign="top" width="55%">
 
 ```text
-public repos       ────────────  79
-stars earned       ────────────  36
-followers          ────────────  14
+public repos       ────────────  82
+stars earned       ────────────  44
+followers          ────────────  13
 on github since    ────────  oct 2010
 years shipping     ────────────  15
 ```
@@ -222,10 +222,6 @@ years shipping     ────────────  15
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fatihkan&theme=transparent&hide_border=true&stroke=FBA922&ring=FBA922&fire=FBA922&currStreakLabel=FBA922&sideLabels=8b949e&dates=8b949e&sideNums=8b949e&currStreakNum=FBA922&background=00000000" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatihkan&bg_color=00000000&color=FBA922&line=FBA922&point=ffffff&area=true&hide_border=true&radius=4&height=200" />
 </p>
 
@@ -234,16 +230,6 @@ years shipping     ────────────  15
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatihkan/fatihkan/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/fatihkan/fatihkan/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<br/>
-
-### 〔 trophy shelf 〕
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fatihkan&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophies" />
-  </a>
-</p>
 
 <br/>
 
