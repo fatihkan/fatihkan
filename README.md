@@ -257,13 +257,13 @@ years shipping     ────────────  15
 <sub><code>stack of choice (2026)</code></sub>
 
 ```text
-mobile     swift · react native · kotlin
-web        next.js · react · typescript
-backend    node.js · laravel · postgres
-ai layer   claude code · anthropic SDK · MCP · RAG
-infra      aws · hetzner · docker · github actions
-editor     xcode · cursor · vim
-shell      zsh + fzf + ripgrep + bat
+mobile    swift · react native · kotlin
+web       next.js · react · typescript
+backend   node.js · laravel · postgres
+ai layer  claude code · agent SDK · MCP
+infra     aws · hetzner · docker · gha
+editor    xcode · cursor · vim
+shell     zsh + fzf + ripgrep + bat
 ```
 
 </td>
