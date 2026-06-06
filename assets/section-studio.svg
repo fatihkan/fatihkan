@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="36" viewBox="0 0 780 36" role="img" aria-label="studio t-square — three in-house products, operated end-to-end">
+  <style>.m{font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace;}</style>
+  <text class="m" x="0" y="23" font-size="15" fill="#FBA922">〔 studio · t-square 〕</text>
+  <text class="m" x="220" y="23" font-size="13" fill="#8b949e">· three in-house products, operated end-to-end</text>
+  <line x1="610" y1="18" x2="770" y2="18" stroke="#FBA922" stroke-opacity="0.25" stroke-width="1"/>
+  <circle cx="776" cy="18" r="2.5" fill="#FBA922" fill-opacity="0.6"/>
+</svg>

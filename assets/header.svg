@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="170" viewBox="0 0 780 170" role="img" aria-label="fatih kan — mobile · ai tooling · systems — shipping from istanbul">
+  <defs>
+    <linearGradient id="amber" x1="0" y1="0" x2="780" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FBA922"/>
+      <stop offset="0.55" stop-color="#FFD27D"/>
+      <stop offset="1" stop-color="#FBA922"/>
+    </linearGradient>
+    <clipPath id="underline-clip">
+      <rect x="195" y="96" width="390" height="8"/>
+    </clipPath>
+  </defs>
+  <style>
+    .mono   { font-family: ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace; }
+    .name   { font-size: 46px; font-weight: 800; letter-spacing: 2px; fill: url(#amber); }
+    .brkt   { font-size: 38px; fill: #FBA922; opacity: .5; }
+    .line   { font-size: 17px; letter-spacing: 3px; fill: #8b949e; opacity: 0; animation: cycle 12s ease-in-out infinite; }
+    .l2     { animation-delay: 4s; }
+    .l3     { animation-delay: 8s; }
+    .cursor { fill: #FBA922; animation: blink 1.1s steps(2, start) infinite; }
+    .sweep  { animation: sweep 5.5s cubic-bezier(.25, 1, .5, 1) infinite; }
+    @keyframes cycle {
+      0%      { opacity: 0; }
+      4%      { opacity: 1; }
+      29%     { opacity: 1; }
+      33.33%  { opacity: 0; }
+      100%    { opacity: 0; }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50%      { opacity: 0; }
+    }
+    @keyframes sweep {
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(640px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .line, .cursor, .sweep { animation: none; }
+      .l1 { opacity: 1; }
+    }
+  </style>
+
+  <!-- name row -->
+  <text class="mono brkt" x="170" y="76" text-anchor="middle">「</text>
+  <text class="mono name" x="390" y="80" text-anchor="middle">fatih kan</text>
+  <text class="mono brkt" x="610" y="76" text-anchor="middle">」</text>
+
+  <!-- underline + amber sweep -->
+  <rect x="195" y="99" width="390" height="2" fill="#FBA922" opacity="0.22"/>
+  <g clip-path="url(#underline-clip)">
+    <rect class="sweep" x="55" y="99" width="140" height="2" fill="url(#amber)"/>
+  </g>
+
+  <!-- cycling lines -->
+  <text class="mono line l1" x="390" y="140" text-anchor="middle">mobile · ai tooling · systems<tspan class="cursor">▌</tspan></text>
+  <text class="mono line l2" x="390" y="140" text-anchor="middle">shipping from istanbul<tspan class="cursor">▌</tspan></text>
+  <text class="mono line l3" x="390" y="140" text-anchor="middle">we run what we build<tspan class="cursor">▌</tspan></text>
+</svg>
