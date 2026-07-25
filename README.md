@@ -33,7 +33,7 @@ Cinematic live wallpapers for macOS — turn any video you own into a living 4K 
 <p>
   <img src="https://img.shields.io/badge/Swift-0a0a0a?style=flat-square&logo=swift&logoColor=FBA922&labelColor=0a0a0a" alt="Swift" />
   <img src="https://img.shields.io/badge/macOS-0a0a0a?style=flat-square&logo=apple&logoColor=FBA922&labelColor=0a0a0a" alt="macOS" />
-  <img src="https://img.shields.io/badge/%E2%98%85%2033-0a0a0a?style=flat-square&labelColor=0a0a0a&color=FBA922" alt="33 stars" />
+  <img src="https://img.shields.io/badge/%E2%98%85%2033-0a0a0a?style=flat-square&labelColor=0a0a0a&color=FBA922" alt="40 stars" />
   <img src="https://img.shields.io/badge/forks%202-0a0a0a?style=flat-square&labelColor=0a0a0a&color=FBA922" alt="2 forks" />
 </p>
 
@@ -48,7 +48,7 @@ Workflow management CLI for Claude Code, Cursor & Gemini CLI. 30 AI agents — i
 <p>
   <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=FBA922&labelColor=0a0a0a" alt="JavaScript" />
   <img src="https://img.shields.io/badge/CLI-0a0a0a?style=flat-square&logo=gnubash&logoColor=FBA922&labelColor=0a0a0a" alt="CLI" />
-  <img src="https://img.shields.io/badge/%E2%98%85%205-0a0a0a?style=flat-square&labelColor=0a0a0a&color=FBA922" alt="5 stars" />
+  <img src="https://img.shields.io/badge/%E2%98%85%205-0a0a0a?style=flat-square&labelColor=0a0a0a&color=FBA922" alt="7 stars" />
   <img src="https://img.shields.io/badge/active-0a0a0a?style=flat-square&labelColor=0a0a0a&color=FBA922" alt="active" />
 </p>
 
